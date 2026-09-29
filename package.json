@@ -1,0 +1,15 @@
+{
+  "name": "konyi-store-backend",
+  "version": "1.0.0",
+  "description": "Stripe webhook backend that emails the purchased PDF to customers after payment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "stripe": "^16.8.0",
+    "resend": "^4.0.0",
+    "dotenv": "^16.4.5"
+  }
+}

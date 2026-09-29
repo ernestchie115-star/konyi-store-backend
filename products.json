@@ -1,0 +1,28 @@
+{
+  "_comment": "Map each Stripe Price ID to the book it belongs to. Find a price ID in Stripe Dashboard > Product catalogue > (click the book) > Pricing table > click the price row.",
+
+  "price_1UGo7uLTRhoYpBcmej7cHoWa": {
+    "title": "The Everyday Health Reset",
+    "pdfFile": "everyday-health-reset.pdf"
+  },
+
+  "price_1UKpvrLTRhoYpBcmcdszy9iO": {
+    "title": "The Sleep Reset",
+    "pdfFile": "the-sleep-reset.pdf"
+  },
+
+  "price_1UKpZfLTRhoYpBcmuQ41ICjV": {
+    "title": "The Stress Reset",
+    "pdfFile": "the-stress-reset.pdf"
+  },
+
+  "price_1UKqPOLTRhoYpBcmXOcvApUP": {
+    "title": "The Small Business Marketing Playbook",
+    "pdfFile": "small-business-marketing-playbook.pdf"
+  },
+
+  "price_1UKqG5LTRhoYpBcmppjhGtXQ": {
+    "title": "Content That Converts",
+    "pdfFile": "content-that-converts.pdf"
+  }
+}
